@@ -1,0 +1,1 @@
+mcver.php - Standalone php file that fetches the minecraft version from the supplied url. Should support all version of mc from first beta to latest snapshot. Alpha minecrafts untested.
